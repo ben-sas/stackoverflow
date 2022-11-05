@@ -1,6 +1,4 @@
 
-# THIS IS A TEST
-
 ### Table of Contents
 
 1. [Installation](#installation)
